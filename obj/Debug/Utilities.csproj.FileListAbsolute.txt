@@ -1,0 +1,13 @@
+C:\MyCodes\Utilities\bin\Debug\Utilities.exe.config
+C:\MyCodes\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\MyCodes\Utilities\obj\Debug\MainWindow.baml
+C:\MyCodes\Utilities\obj\Debug\MainWindow.g.cs
+C:\MyCodes\Utilities\obj\Debug\App.g.cs
+C:\MyCodes\Utilities\obj\Debug\Utilities_MarkupCompile.cache
+C:\MyCodes\Utilities\obj\Debug\Utilities.g.resources
+C:\MyCodes\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\MyCodes\Utilities\obj\Debug\Utilities.csproj.GenerateResource.Cache
+C:\MyCodes\Utilities\bin\Debug\Utilities.exe
+C:\MyCodes\Utilities\bin\Debug\Utilities.pdb
+C:\MyCodes\Utilities\obj\Debug\Utilities.exe
+C:\MyCodes\Utilities\obj\Debug\Utilities.pdb
